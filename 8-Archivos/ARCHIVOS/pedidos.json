@@ -23,6 +23,15 @@
                 "Mouse",
                 "Parlantes"
             ]
+        },
+        {
+            "id": 4,
+            "nombre": "Pedro",
+            "productos": [
+                "Monitor",
+                "Auriculares",
+                "Impresora"
+            ]
         }
     ]
 }
