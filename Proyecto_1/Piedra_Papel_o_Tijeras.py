@@ -5,7 +5,7 @@ while True:
     usuario = 0
     pc = 0
     
-    jugadas = """"
+    jugadas = """
     Jugadas posibles:
     1. Piedra
     2. Papel
@@ -43,7 +43,7 @@ while True:
         print("Usted ganó!")
     elif pc == 3 and usuario == 1:
         print("Usted ganó!")
-    elif pc == 3 and usuario == 1:
+    elif pc == 1 and usuario == 2:
         print("Usted ganó!")        
     elif pc == usuario:
         print("Empate!")
